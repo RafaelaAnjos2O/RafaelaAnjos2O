@@ -25,7 +25,7 @@
 
 ## **Linguagens e Tecnologias**
 
-## 💫 Área Fullstack
+## 💫 Área Full Stack
 
 ### 🎨 Front-end
 
