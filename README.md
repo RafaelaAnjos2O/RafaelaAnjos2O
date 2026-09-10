@@ -14,7 +14,7 @@
 [![Lattes](https://img.shields.io/badge/Currículo%20Lattes-004A8F?style=for-the-badge&logo=googlescholar&logoColor=white)](http://lattes.cnpq.br/1072437998644154)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaaelaanjos13@gmail.com)
 
-> `Desenvolvedora Fullstack`
+> `Desenvolvedora Full Stack`
 >
 > `Aprendiz em:`
 >
